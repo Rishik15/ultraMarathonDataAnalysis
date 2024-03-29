@@ -2,6 +2,10 @@
 
 This project is an exploratory analysis of ultra marathon running events from the year 2021. The goal is to uncover patterns and insights related to athletes' performance across different events, distances, and seasons.
 
+## Initial Dataset from Kaggle
+
+[Dataset download link](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running)
+
 ## Project Structure
 
 - `DataCleaning.ipynb`: This Jupyter notebook contains the data cleaning procedures that were performed to prepare the data for analysis.
@@ -39,6 +43,7 @@ The analysis provides insights into how factors like age and seasonality affect 
 ## Usage
 
 To explore the analysis, open the Jupyter notebooks in an environment that supports `.ipynb` files, such as JupyterLab or VS Code.
+You can download the initial data set downloaded from Kaggle through the link above.
 
 ## License
 
